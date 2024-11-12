@@ -32,12 +32,12 @@ As part of Postman’s **Project-Based Learning** initiative, this app provides 
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/AI-Text-Summarizer-App.git
+    git clone https://github.com/akshay0611/AI-Text-Summarizer.git
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd AI-Text-Summarizer-App
+    cd AI-Text-Summarizer
     ```
 
 3. **Install dependencies**:
@@ -51,6 +51,7 @@ As part of Postman’s **Project-Based Learning** initiative, this app provides 
     ```
 
 After this, go to `http://localhost:3000` in your browser to start summarizing texts!
+
 
 ---
 
