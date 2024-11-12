@@ -1,0 +1,12 @@
+{
+  "private": true,
+  "dependencies": {
+    "types-registry": "^0.1.694"
+  },
+  "devDependencies": {
+    "@types/body-parser": "^1.19.5",
+    "@types/express": "^5.0.0",
+    "@types/merge-descriptors": "^1.0.3",
+    "@types/serve-static": "^1.15.7"
+  }
+}

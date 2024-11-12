@@ -1,0 +1,71 @@
+{
+  "_from": "@types/express@ts4.8",
+  "_id": "@types/express@5.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-DvZriSMehGHL1ZNLzi6MidnsDhUZM/x2pRdDIKdwbUNqqwHxMlRdkxtn6/EPKyqKpHqTl/4nRZsRNLpZxZRpPQ==",
+  "_location": "/@types/express",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "@types/express@ts4.8",
+    "name": "@types/express",
+    "escapedName": "@types%2fexpress",
+    "scope": "@types",
+    "rawSpec": "ts4.8",
+    "saveSpec": null,
+    "fetchSpec": "ts4.8"
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/express/-/express-5.0.0.tgz",
+  "_shasum": "13a7d1f75295e90d19ed6e74cab3678488eaa96c",
+  "_spec": "@types/express@ts4.8",
+  "_where": "/home/runner/AI-Text-Summarizer-App-Starter-Template/.cache/typescript/4.8",
+  "bugs": {
+    "url": "https://github.com/DefinitelyTyped/DefinitelyTyped/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "Boris Yankov",
+      "url": "https://github.com/borisyankov"
+    },
+    {
+      "name": "China Medical University Hospital",
+      "url": "https://github.com/CMUH"
+    },
+    {
+      "name": "Puneet Arora",
+      "url": "https://github.com/puneetar"
+    },
+    {
+      "name": "Dylan Frankland",
+      "url": "https://github.com/dfrankland"
+    }
+  ],
+  "dependencies": {
+    "@types/body-parser": "*",
+    "@types/express-serve-static-core": "^5.0.0",
+    "@types/qs": "*",
+    "@types/serve-static": "*"
+  },
+  "deprecated": false,
+  "description": "TypeScript definitions for express",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/express",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/express",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+    "directory": "types/express"
+  },
+  "scripts": {},
+  "typeScriptVersion": "4.8",
+  "types": "index.d.ts",
+  "typesPublisherContentHash": "906f793a5f72703639a36afa9b7c5b41256100f5efc93138ed2551c101aea99f",
+  "version": "5.0.0"
+}
