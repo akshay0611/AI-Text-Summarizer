@@ -2,6 +2,9 @@
 
 This project is part of **Postman's Project-Based Learning** module, where I built an **AI-powered web application** to summarize lengthy text into concise, readable summaries. The application leverages **Node.js** and integrates with the **Hugging Face Inference API** for real-time text summarization.
 
+<img width="1436" alt="AI Text Summarizer App" src="https://github.com/user-attachments/assets/edab3728-ccef-4099-b0c2-d87078e57d8c">
+
+
 ---
 
 ## 🌟 **Project Overview**
